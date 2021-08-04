@@ -40,3 +40,5 @@ int main(void)
     }
     cout << endl;
 }
+
+// Link -->https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/
